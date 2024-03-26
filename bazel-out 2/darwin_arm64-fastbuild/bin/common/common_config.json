@@ -1,0 +1,49 @@
+{
+	"allow_overwrites": false,
+	"dst": "bazel-out/darwin_arm64-fastbuild/bin/common/common",
+	"exclude_srcs_packages": [],
+	"exclude_srcs_patterns": [
+		"**/node_modules/**"
+	],
+	"files": [
+		{
+			"hardlink": true,
+			"package": "common",
+			"path": "bazel-out/darwin_arm64-fastbuild/bin/common/index.js",
+			"root_path": "bazel-out/darwin_arm64-fastbuild/bin",
+			"short_path": "common/index.js",
+			"workspace": "",
+			"workspace_path": "common/index.js"
+		},
+		{
+			"hardlink": true,
+			"package": "common",
+			"path": "bazel-out/darwin_arm64-fastbuild/bin/common/index.d.ts",
+			"root_path": "bazel-out/darwin_arm64-fastbuild/bin",
+			"short_path": "common/index.d.ts",
+			"workspace": "",
+			"workspace_path": "common/index.d.ts"
+		},
+		{
+			"hardlink": true,
+			"package": "",
+			"path": "bazel-out/darwin_arm64-fastbuild/bin/tsconfig.json",
+			"root_path": "bazel-out/darwin_arm64-fastbuild/bin",
+			"short_path": "tsconfig.json",
+			"workspace": "",
+			"workspace_path": "tsconfig.json"
+		}
+	],
+	"include_external_repositories": [],
+	"include_srcs_packages": [
+		"common/**"
+	],
+	"include_srcs_patterns": [
+		"**"
+	],
+	"replace_prefixes": {},
+	"root_paths": [
+		"common"
+	],
+	"verbose": false
+}
