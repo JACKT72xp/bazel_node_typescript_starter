@@ -1,5 +1,0 @@
-aspect_rules_js~,aspect_rules_js,aspect_rules_js~
-aspect_rules_js~,nodejs_darwin_arm64,rules_nodejs~~node~nodejs_darwin_arm64
-aspect_rules_ts~~ext~npm_typescript,aspect_rules_js,aspect_rules_js~
-aspect_rules_ts~~ext~npm_typescript,npm_typescript,aspect_rules_ts~~ext~npm_typescript
-rules_nodejs~~node~nodejs_darwin_arm64,nodejs_darwin_arm64,rules_nodejs~~node~nodejs_darwin_arm64
